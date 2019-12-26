@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+
+#sudo docker-compose build
+#sudo docker-compose run app sh -c "django-admin.py startproject app ."
 import os
 import sys
 
